@@ -1,4 +1,4 @@
-package com.jaekyung.book.springboot.service.posts;
+package com.jaekyung.book.springboot.service;
 
 import com.jaekyung.book.springboot.domain.posts.Posts;
 import com.jaekyung.book.springboot.domain.posts.PostsRepository;

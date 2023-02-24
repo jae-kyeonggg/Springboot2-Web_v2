@@ -1,6 +1,6 @@
 package com.jaekyung.book.springboot.web;
 
-import com.jaekyung.book.springboot.service.posts.PostsService;
+import com.jaekyung.book.springboot.service.PostsService;
 import com.jaekyung.book.springboot.web.dto.PostsResponseDto;
 import com.jaekyung.book.springboot.web.dto.PostsSaveRequestDto;
 import com.jaekyung.book.springboot.web.dto.PostsUpdateRequestDto;
