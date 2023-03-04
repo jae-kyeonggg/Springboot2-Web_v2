@@ -1,4 +1,4 @@
-package com.jaekyung.book.springboot;
+package com.jaekyung.book.springboot.web;
 
 import com.jaekyung.book.springboot.config.auth.SecurityConfig;
 import com.jaekyung.book.springboot.web.HelloController;
